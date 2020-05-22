@@ -17,7 +17,7 @@
 * The driver for unlock turbo boost is embedded (the first number in the BIOS name is undervolting CPU, the second is undervolting Cache)
 * Used ffs drivers from payne
 * CPU C3 report and CPU C6 report disabled by default
-* Replaced the logo with a custom one from [Houston Sad] (https://vk.com/wall-114738215_1199166?hash=29fa874de48f436633), [Profile] (https://vk.com/id577675241)
+* Replaced the logo with a custom one from [Houston Sad](https://vk.com/wall-114738215_1199166?hash=29fa874de48f436633), [Profile](https://vk.com/id577675241)
 
 + The EFI driver is registered in the BIOS, in case of a driver rally, a PC reboot is enough
 - Sleep and hibernation - turbo boost gathering (only requires a PC reboot)
