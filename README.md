@@ -12,7 +12,7 @@
 + Драйвер EFI прописан в биосе, в случае слета драйвера достаточно перезагрузки ПК
 - Сон и гибернация - слет турбобуста (требуется только перезагрузка ПК)
 
-# Created on the basis of BIOS from Azarih190
+# Created on the basis of bios from HUANANZHI from 2020/05/25
 
 ### After flashing the BIOS, go to the Save & Exit tab and tap the Restore Defaults button. We apply the changes and reboot.
 * The driver for unlock turbo boost is embedded (the first number in the BIOS name is undervolting CPU, the second is undervolting Cache)
